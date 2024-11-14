@@ -48,3 +48,21 @@ I have implemented in the following test automation steps.
 - Subtraction of 2 numbers (8-3=5)
 - multiplied of 2 numbers (14*5=70)
 - Division of a number by 10 (70/10=7)
+
+## Screenshots:
+
+<img width="1036" alt="Screenshot 2024-11-14 at 11 56 27 AM" src="https://github.com/user-attachments/assets/20848cc8-7032-430e-b598-91ab3c4e02eb">
+
+<img width="1361" alt="Screenshot 2024-11-14 at 12 21 17 PM" src="https://github.com/user-attachments/assets/37cc47c9-99fe-4b34-98a7-5c80d6ea15bd">
+
+<img width="1309" alt="Screenshot 2024-11-14 at 12 33 40 PM" src="https://github.com/user-attachments/assets/1e893c60-5b4b-4c8b-9755-6a04658a8c85">
+
+<img width="807" alt="Screenshot 2024-11-14 at 12 34 37 PM" src="https://github.com/user-attachments/assets/8ab36594-319b-41ba-8fe2-8bdbbea3d7c5">
+
+
+
+
+
+
+
+
