@@ -57,7 +57,8 @@ I have implemented in the following test automation steps.
 
 <img width="1309" alt="Screenshot 2024-11-14 at 12 33 40 PM" src="https://github.com/user-attachments/assets/1e893c60-5b4b-4c8b-9755-6a04658a8c85">
 
-<img width="807" alt="Screenshot 2024-11-14 at 12 34 37 PM" src="https://github.com/user-attachments/assets/8ab36594-319b-41ba-8fe2-8bdbbea3d7c5">
+<img width="807" alt="Screenshot 2024-11-14 at 12 34 37 PM" src="https://github.com/user-attachments/assets/2e07c139-0f1e-44c5-bc79-3e3897a8fb1c">
+
 
 
 
